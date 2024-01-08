@@ -1,0 +1,32 @@
+.input1 {
+    width: 150px;
+    height: 20px;
+    text-align: center;
+}
+
+.container{
+    margin-left: 330px;
+    margin-top: 50px;
+}
+
+.operand{
+    width: 80px;
+    height: 20px;
+    text-align: center;
+}
+
+.input2 {
+    width: 150px;
+    height: 20px;
+    text-align: center;
+}  
+
+.btn {
+    width: 80px;
+    height: 26px;
+}
+
+.result2 {
+    font-size: 20px;
+    margin-left: 20px;
+}
